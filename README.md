@@ -16,3 +16,4 @@
 * Sıradaki eleman 9. 9>7 ve 9>8 --> 8'in sağından devam edilir.
 * Sıradaki eleman 4. 4<7, 4<5, 4>1 ve 4>3 --> 3'ün sağından devam edilir.
 * Sıradaki eleman 2. 2<7, 2<5, 2>1 ve 2<3 --> 3'ün solundan devam edilir.
+###
